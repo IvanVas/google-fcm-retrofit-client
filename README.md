@@ -36,7 +36,9 @@ After the client library is installed/deployed, you can use it in your Maven pro
 
 It's recommended to create an instance of `ApiClient` per thread in a multithreaded environment to avoid any potential issues.
 
-## Author
+## Acknowledgements
+
+Generated from [this Swagger API Definition](https://github.com/cbornet/google-fcm-swagger)
 
 
 
